@@ -14,8 +14,7 @@
 | 10 | मनोरूपेक्षुकोदण्डा | Armed with a sugarcane bow, as a symbol of the mind | 
 | 11 | पञ्चतन्मात्र-सायका | Bearing arrows of the five elements which support the senses | 
 | 12 | निजारुण-प्रभापूर-मज्जद्ब्रह्माण्ड-मण्डला | Bathing the whole universe in the red effulgence of her form | 
-| 13 | चम्पकाशोक-पुन्नाग-सौगन्धिक-लसत्कचा | Hair adorned with the flowers campaka,
-     ashoka, punnAga and saugandhika | 
+| 13 | चम्पकाशोक-पुन्नाग-सौगन्धिक-लसत्कचा | Hair adorned with the flowers campaka, ashoka, punnAga and saugandhika | 
 | 14 | कुरुविन्दमणि-श्रेणी-कनत्कोटीर-मण्डिता | With a crown adorned with rows of sparkling Kuruvinda gems | 
 | 15 | अष्टमीचन्द्र-विभ्राज-दलिकस्थल-शोभिता | Forehead glistening like the moon on the eight day | 
 | 16 | मुखचन्द्र-कलङ्काभ-मृगनाभि-विशेषका | With a musk mask on her forehead like a spot on the moon | 
