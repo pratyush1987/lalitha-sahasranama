@@ -1,2 +1,6 @@
-# Initial page
+# The Thousand Names
+
+| Number | Sanskrit | Meaning |
+| :--- | :--- | :--- |
+|  |  |  |
 
